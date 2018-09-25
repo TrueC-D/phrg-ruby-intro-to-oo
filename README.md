@@ -35,4 +35,7 @@ Ruby comes with a few types of Objects to get us started, things like `Integer`,
 
 [Video Review- Intro to Object Orientation](https://www.youtube.com/watch?v=Z_IoQCVNWtM) 
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-ruby-intro-to-oo/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-ruby-intro-to-oo/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Object Orientation</p>
